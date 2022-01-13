@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Matin-M&repo=github-visitors-badge&countColor=%237B1E7A)
 ### Hi there 👋
 
 My name is Matin and I am currently a senior at Arizona State University studying Computer Science. 
