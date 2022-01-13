@@ -3,7 +3,7 @@
 My name is Matin and I am currently a senior at Arizona State University studying Computer Science. 
 
 - 🛠 My skills: iOS and distributed web service development.
-- 👨‍💻 My experience: Former software development engineering intern at Transperfect and Bioinformaticist at Stanford University's School of Medicine. I'm also the creator of StockTrack, an iOS application that allows users to monitor certain stocks, ETFs, Mutual Funds, and global market indecies. 
+- 👨‍💻 My experience: Former software development engineering intern at Transperfect and Bioinformaticist at Stanford University's School of Medicine. I'm also the creator of StockTrack, an iOS application that allows users to monitor the performance of stocks, ETFs, Mutual Funds, and global market indecies. 
 - 📫 How to reach me: mmassou1@asu.edu
 
 My GitHub Stats:
