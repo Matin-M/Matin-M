@@ -10,9 +10,9 @@ I am currently a senior at Arizona State University studying Computer Science.
   -  Bioinformaticist at Stanford University's School of Medicine. 
   -  Software development engineering intern at Transperfect.
 
-- My projects:
+- 📝My projects:
   -  StockTrack: An iOS application that allows users to monitor the performance of stocks, ETFs, Mutual Funds, and global market indecies. 
-  -  Savvy: A Node.JS discord bot does server management, has web lookup tools, and much more. 
+  -  Savvy: A Node.JS discord bot that helps with server management, music streaming, and much more. 
 
 - 📫 How to reach me: mmassou1@asu.edu
 
