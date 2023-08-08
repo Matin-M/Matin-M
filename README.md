@@ -3,4 +3,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matin-M&show_icons=true&locale=en&layout=compact" alt="Matin-M"/></p>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=Matin-M&repo=github-visitors-badge&countColor=%237B1E7A)
